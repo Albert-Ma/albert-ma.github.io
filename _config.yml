@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xinyu Ma"
+  name             : "Xinyu Ma (马新宇)"
   avatar           : "me.jpg"
   bio              : "CS Ph.D. Student at Institute of Computing Technology, Chinese Academy of Science (ICT,CAS)"
   location         : "Beijing, China"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/xinyuma8"
+  twitter          : "xinyuma8"
   vine             :
   weibo            :
   xing             :
