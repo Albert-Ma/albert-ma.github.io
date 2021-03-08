@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/), China. My supervisor is Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/). My research interests are in leveraging pre-trained language models to understand and enhance information retrieval (IR), including but not limited to understanding relevance modeling in IR, designing tailored for IR pre-training objectives, efficient ranking framework and etc.
+I am a Ph.D. student in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/), advised by Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/). I also work with [Yixing Fan](http://www.bigdatalab.ac.cn/~fanyixing/) and [Ruqing Zhang](http://www.bigdatalab.ac.cn/~zhangruqing/). My research interests are in leveraging pre-trained language models to understand and enhance information retrieval (IR), including but not limited to understanding relevance modeling in IR, designing tailored for IR pre-training objectives, efficient ranking framework and etc.
 
 ### Education
 
@@ -28,7 +28,7 @@ I am a Ph.D. student in Computer Science at [Institute of Computing Technology](
 
 - Shandong Province Outstanding Undergraduate Award, 2017
 - National Scholarship, 2016
-- National Encouragement scholarship, 2015
+- National Encouragement Scholarship, 2015
 
 <style>
 .container{
