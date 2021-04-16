@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/), advised by Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/). I also work with [Yixing Fan](http://www.bigdatalab.ac.cn/~fanyixing/) and [Ruqing Zhang](http://www.bigdatalab.ac.cn/~zhangruqing/). My research interests are in leveraging pre-trained language models to understand and enhance information retrieval (IR), including but not limited to understanding relevance modeling in IR, designing tailored for IR pre-training objectives, efficient ranking framework and etc.
+I am a Ph.D. student in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/), advised by Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/). I also work with [Yixing Fan](http://www.bigdatalab.ac.cn/~fanyixing/) and [Ruqing Zhang](http://www.bigdatalab.ac.cn/~zhangruqing/). My research interests are in leveraging pre-trained language models to understand and enhance information retrieval (IR), including but not limited to **understanding relevance in IR**, **pre-training for IR**, **training dense retrieval models**, **designing efficient ranking framework** and etc.
+
+### Highlight: [A curated list of awesome papers related to pre-trained models for information retrieval](https://github.com/Albert-Ma/awesome-pretrained-models-for-information-retrieval)
+
+### News
+- [Jan. 2021] Our PROP model reached the top of the MSMARCO Document Ranking leaderboard.
+
 
 ### Education
 
