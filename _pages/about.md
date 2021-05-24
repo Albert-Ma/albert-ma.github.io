@@ -13,7 +13,9 @@ I am a Ph.D. student in Computer Science at [Institute of Computing Technology](
 ### <span style="color:#2561a0">Highlight</span>
 - [A curated list of awesome papers on pre-trained models for IR](https://github.com/Albert-Ma/awesome-pretrained-models-for-information-retrieval)
 
-### <span style="color:#2561a0">News</span>
+### <span style="color:#2561a0">News and Events</span>
+- [May. 2021] Invited talk "pretrained models for inforamtion retrieval", at the Alipay Search Department of Ant Group, Beijing.
+- [Apr. 2021] Our PROP model reached the top of the MSMARCO Document Ranking [leaderboard](https://microsoft.github.io/MSMARCO-Document-Ranking-Submissions/leaderboard/) Again!
 - [Jan. 2021] Our PROP model reached the top of the MSMARCO Document Ranking [leaderboard](https://microsoft.github.io/MSMARCO-Document-Ranking-Submissions/leaderboard/).
 
 
