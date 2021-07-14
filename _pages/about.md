@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/), advised by Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/). I also work with [Yixing Fan](http://www.bigdatalab.ac.cn/~fanyixing/) and [Ruqing Zhang](http://www.bigdatalab.ac.cn/~zhangruqing/). 
 My research is focused on the core problem in information retrieval (IR), i.e. **ranking**.
-Specifically, my current research interests are in leveraging pre-trained language models into IR, including but not limited to **understanding relevance in IR**, **pre-training for IR** and **dense retrieval**.
+Specifically, my current research interests are in leveraging pre-trained language models into IR, including but not limited to **understanding the relevance in IR**, **pre-training for IR** and **dense retrieval**.
 
 ### <span style="color:#2561a0">Highlight</span>
 - [A curated list of awesome papers on pre-trained models for IR](https://github.com/Albert-Ma/awesome-pretrained-models-for-information-retrieval)
@@ -36,7 +36,7 @@ Specifically, my current research interests are in leveraging pre-trained langua
 
 
 ### Hornors and Awards
-
+- SIGIR'2021 Student Travel Grant
 - Shandong Province Outstanding Undergraduate Award, 2017
 - National Scholarship, 2016
 - National Encouragement Scholarship, 2015
@@ -47,6 +47,6 @@ Specifically, my current research interests are in leveraging pre-trained langua
   text-align: center;
 }
 </style>
-<div class="container">
-<a href="https://clustrmaps.com/site/1bgml"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=r0gj_yNCkHu7W5I1vq_HTWYwWE3DmW0acJFPjXZ1sZ4&cl=ffffff" /></a>
+<div class="container">
+<a href="https://clustrmaps.com/site/1bgml"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=r0gj_yNCkHu7W5I1vq_HTWYwWE3DmW0acJFPjXZ1sZ4&cl=ffffff" /></a>
 </div>
