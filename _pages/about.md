@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a Ph.D. student in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/), advised by Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/). I also work with [Yixing Fan](http://www.bigdatalab.ac.cn/~fanyixing/) and [Ruqing Zhang](http://www.bigdatalab.ac.cn/~zhangruqing/). 
-My research is focused on the core problem in information retrieval (IR), i.e. **ranking**.
+My research is focused on the core problem in information retrieval (IR): **ranking**.
 Specifically, my current research interests are in leveraging pre-trained language models into IR, including but not limited to **understanding the relevance in IR**, **pre-training for IR** and **dense retrieval**.
 
 ### <span style="color:#2561a0">Highlight</span>
