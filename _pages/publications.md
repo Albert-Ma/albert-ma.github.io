@@ -10,7 +10,7 @@ author_profile: true
 
 1. **B-PROP: Bootstrapped Pre-training with Representative Words Prediction for Ad-hoc Retrieval** [[PDF](https://arxiv.org/abs/2104.09791)][[Code](https://github.com/Albert-Ma/PROP)][[Slides](/files/bprop_slides.pdf)][[Video](https://www.bilibili.com/video/BV1mV411H7du/)] <br>
 <ins>**Xinyu Ma**</ins>, Jiafeng Guo, Ruqing Zhang, Yixin Fan, Yingyan Li, Xueqi Cheng. <br>
-**SIGIR'2021**, *(Full Paper, Acceptance Rate = 21%)* <br>
+**SIGIR'2021**, *(Full Oral Paper, Acceptance Rate = 21%)* <br>
 
 2. **PROP: Pre-training with Representative Words Prediction for Ad-hoc Retrieval**[[PDF](https://arxiv.org/abs/2010.10137)] [[Code](https://github.com/Albert-Ma/PROP)][[Slides](/files/prop_slides.pdf)][[Video](https://www.bilibili.com/video/BV1by4y1T7k7/)] <br>
 <ins>**Xinyu Ma**</ins>, Jiafeng Guo, Ruqing Zhang, Yixin Fan, Xiang Ji, Xueqi Cheng. <br>
