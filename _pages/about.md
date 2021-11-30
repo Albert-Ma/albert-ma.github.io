@@ -13,6 +13,7 @@ My research is focused on the core problem in information retrieval (IR): **rank
 Specifically, my current research interests are in leveraging pre-trained language models into IR, including but not limited to **understanding the relevance in IR**, **pre-training for IR** and **dense retrieval**.
 
 ### <span style="color:#2561a0">Highlight</span>
+- A survey of Pre-training for IR: [Pre-training Methods in Information Retrieval](https://arxiv.org/abs/2111.13853)
 - [A curated list of awesome papers on pre-trained models for IR](https://github.com/Albert-Ma/awesome-pretrained-models-for-information-retrieval)
 
 ### <span style="color:#2561a0">News and Events</span>

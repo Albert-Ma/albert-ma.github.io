@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 
+### 2021
+1. **Pre-training Methods in Information Retrieval** [[PDF](https://arxiv.org/pdf/2111.13853.pdf)] <br>
+Yixing Fan<sup>\*</sup>, Xiaohui Xie<sup>\*</sup>, Yinqiong Cai, Jia Chen, <ins>**Xinyu Ma**</ins>, Xiangsheng Li, Ruqing Zhang, Jiafeng Guo, Yiqun Liu. (<sup>\*</sup>Equal contribution) <br>
+Preprint<br>
+
 ### 2020
 
 1. **B-PROP: Bootstrapped Pre-training with Representative Words Prediction for Ad-hoc Retrieval** [[PDF](https://arxiv.org/abs/2104.09791)][[Code](https://github.com/Albert-Ma/PROP)][[Slides](/files/bprop_slides.pdf)][[Video](https://www.bilibili.com/video/BV1mV411H7du/)] <br>
