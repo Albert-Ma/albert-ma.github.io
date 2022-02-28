@@ -17,6 +17,7 @@ Specifically, my current research interests are in leveraging pre-trained langua
 - [A curated list of awesome papers on pre-trained models for IR](https://github.com/Albert-Ma/awesome-pretrained-models-for-information-retrieval)
 
 ### <span style="color:#2561a0">News and Events</span>
+- [Feburary. 2022] Invited talk at the [PLM4IR workshop](https://plm4ir.github.io/) of WSDM'2022.
 - [October. 2021] Invited talk at the Baidu NLP group, Beijing.
 - [May. 2021] Invited talk "pretrained models for inforamtion retrieval", at the Alipay Search Department of Ant Group, Beijing.
 - [Apr. 2021] Our PROP model reached the top of the MSMARCO Document Ranking [leaderboard](https://microsoft.github.io/MSMARCO-Document-Ranking-Submissions/leaderboard/) Again!
@@ -38,6 +39,7 @@ Specifically, my current research interests are in leveraging pre-trained langua
 
 
 ### Hornors and Awards
+- Special Award for the Director of the ICT, CAS, 2021
 - National Scholarship (Phd), 2021
 - SIGIR'2021 Student Travel Grant
 - Shandong Province Outstanding Undergraduate Award, 2017
