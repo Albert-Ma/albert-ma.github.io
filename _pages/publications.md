@@ -9,9 +9,9 @@ author_profile: true
 ### 2021
 1. **Pre-training Methods in Information Retrieval** [[PDF](https://arxiv.org/pdf/2111.13853.pdf)] <br>
 Yixing Fan<sup>\*</sup>, Xiaohui Xie<sup>\*</sup>, Yinqiong Cai, Jia Chen, <ins>**Xinyu Ma**</ins>, Xiangsheng Li, Ruqing Zhang, Jiafeng Guo, Yiqun Liu. (<sup>\*</sup>Equal contribution) <br>
-Preprint<br>
+Preprint. (I wrote Section 4 and Section 6.) <br> 
 2. **Pre-train a Discriminative Text Encoder for Dense Retrieval via Contrastive Span Prediction** <br>
-<ins>**Xinyu Ma**</ins>, Jiafeng Guo, Ruqing Zhang, Yixin Fan, Xueqi Cheng. <br>
+<ins>**Xinyu Ma**</ins>, Jiafeng Guo, Ruqing Zhang, Yixing Fan, Xueqi Cheng. <br>
 **SIGIR'2022**, *(Full Oral Paper, Acceptance Rate = 20%)* <br>
 
 ### 2020
