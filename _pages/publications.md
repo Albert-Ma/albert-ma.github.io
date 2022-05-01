@@ -7,18 +7,18 @@ author_profile: true
 
 
 ### 2021
-1. **Pre-training Methods in Information Retrieval** [[PDF](https://arxiv.org/pdf/2111.13853.pdf)] <br>
-Yixing Fan<sup>\*</sup>, Xiaohui Xie<sup>\*</sup>, Yinqiong Cai, Jia Chen, <ins>**Xinyu Ma**</ins>, Xiangsheng Li, Ruqing Zhang, Jiafeng Guo, Yiqun Liu. (<sup>\*</sup>Equal contribution) <br>
+1. **Pre-training Methods in Information Retrieval** [[PDF](https://arxiv.org/abs/2111.13853)][[Code](https://github.com/Albert-Ma/awesome-pretrained-models-for-information-retrieval)] <br>
+Yixing Fan<sup>\*</sup>, Xiaohui Xie<sup>\*</sup>, Yinqiong Cai, Jia Chen, <ins>**Xinyu Ma**</ins>, Xiangsheng Li, Ruqing Zhang, Jiafeng Guo. (<sup>\*</sup>Equal contribution) <br>
 Preprint. (I wrote Section 4 and Section 6.) <br> 
-2. **Pre-train a Discriminative Text Encoder for Dense Retrieval via Contrastive Span Prediction** <br>
+2. **Pre-train a Discriminative Text Encoder for Dense Retrieval via Contrastive Span Prediction** [[PDF](https://arxiv.org/abs/2204.10641)]<br>
 <ins>**Xinyu Ma**</ins>, Jiafeng Guo, Ruqing Zhang, Yixing Fan, Xueqi Cheng. <br>
-**SIGIR'2022**, *(Full Oral Paper, Acceptance Rate = 20%)* <br>
+**SIGIR'2022**, *(Full Paper, Acceptance Rate = 20%)* <br>
 
 ### 2020
 
 1. **B-PROP: Bootstrapped Pre-training with Representative Words Prediction for Ad-hoc Retrieval** [[PDF](https://arxiv.org/abs/2104.09791)][[Code](https://github.com/Albert-Ma/PROP)][[Slides](/files/bprop_slides.pdf)][[Video](https://www.bilibili.com/video/BV1mV411H7du/)] <br>
 <ins>**Xinyu Ma**</ins>, Jiafeng Guo, Ruqing Zhang, Yixin Fan, Yingyan Li, Xueqi Cheng. <br>
-**SIGIR'2021**, *(Full Oral Paper, Acceptance Rate = 21%)* <br>
+**SIGIR'2021**, *(Full Paper, Acceptance Rate = 21%)* <br>
 
 2. **PROP: Pre-training with Representative Words Prediction for Ad-hoc Retrieval**[[PDF](https://arxiv.org/abs/2010.10137)] [[Code](https://github.com/Albert-Ma/PROP)][[Slides](/files/prop_slides.pdf)][[Video](https://www.bilibili.com/video/BV1by4y1T7k7/)] <br>
 <ins>**Xinyu Ma**</ins>, Jiafeng Guo, Ruqing Zhang, Yixin Fan, Xiang Ji, Xueqi Cheng. <br>

@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Xinyu Ma"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Xinyu Ma"
 description              : &description "CS Ph.D. Student at Institute of Computing Technology, Chinese Academy of Science (ICT,CAS)"
 url                      : https://albert-ma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

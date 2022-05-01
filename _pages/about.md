@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/), advised by Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/). I also work with [Yixing Fan](http://www.bigdatalab.ac.cn/~fanyixing/) and [Ruqing Zhang](http://www.bigdatalab.ac.cn/~zhangruqing/). 
-My research is focused on the core problem in information retrieval (IR): **ranking**.
+I am a fifth-year Ph.D. student in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/), advised by Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/). 
+<!-- I also work with [Yixing Fan](http://www.bigdatalab.ac.cn/~fanyixing/) and [Ruqing Zhang](http://www.bigdatalab.ac.cn/~zhangruqing/).  -->
+My research is focused on the core problem in information retrieval (IR), i.e., **Ranking**.
 Specifically, my current research interests are in leveraging pre-trained language models into IR, including but not limited to **understanding the relevance in IR**, **pre-training for IR** and **dense retrieval**.
 
 ### <span style="color:#2561a0">Highlight</span>
@@ -40,10 +41,10 @@ Specifically, my current research interests are in leveraging pre-trained langua
 
 ### Hornors and Awards
 - Special Award for the Director of the ICT, CAS, 2021
-- National Scholarship (Phd), 2021
+- National Scholarship (Ph.D), 2021
 - SIGIR'2021 Student Travel Grant
 - Shandong Province Outstanding Undergraduate Award, 2017
-- National Scholarship (Bachelor), 2016
+- National Scholarship (B.E.), 2016
 - National Encouragement Scholarship, 2015
 
 <style>
