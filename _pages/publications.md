@@ -10,7 +10,7 @@ author_profile: true
 1. **Pre-training Methods in Information Retrieval** [[PDF](https://arxiv.org/abs/2111.13853)][[Code](https://github.com/Albert-Ma/awesome-pretrained-models-for-information-retrieval)] <br>
 Yixing Fan<sup>\*</sup>, Xiaohui Xie<sup>\*</sup>, Yinqiong Cai, Jia Chen, <ins>**Xinyu Ma**</ins>, Xiangsheng Li, Ruqing Zhang, Jiafeng Guo. (<sup>\*</sup>Equal contribution) <br>
 Preprint. (I wrote Section 4 and Section 6.) <br> 
-2. **Pre-train a Discriminative Text Encoder for Dense Retrieval via Contrastive Span Prediction** [[PDF](https://arxiv.org/abs/2204.10641)]<br>
+2. **Pre-train a Discriminative Text Encoder for Dense Retrieval via Contrastive Span Prediction** [[PDF](https://arxiv.org/abs/2204.10641)][[Code](https://github.com/Albert-Ma/COSTA)]<br>
 <ins>**Xinyu Ma**</ins>, Jiafeng Guo, Ruqing Zhang, Yixing Fan, Xueqi Cheng. <br>
 **SIGIR'2022**, *(Full Paper, Acceptance Rate = 20%)* <br>
 
