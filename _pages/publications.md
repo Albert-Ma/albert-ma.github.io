@@ -44,12 +44,12 @@ Preprint. (I wrote Section 4 and Section 6.) <br>
 
 <ol start="4" reversed="reversed">
 
-<li> <b>B-PROP: Bootstrapped Pre-training with Representative Words Prediction for Ad-hoc Retrieval.</b> [<a href="https://arxiv.org/abs/2104.09791">PDF</a>][<a href="https://github.com/Albert-Ma/PROP">Code</a>][<a href="file://///files/bprop_slides.pdf">Slides</a>][<a href="https://www.bilibili.com/video/BV1mV411H7du/">Video</a>]<br>
+<li> <b>B-PROP: Bootstrapped Pre-training with Representative Words Prediction for Ad-hoc Retrieval.</b> [<a href="https://arxiv.org/abs/2104.09791">PDF</a>][<a href="https://github.com/Albert-Ma/PROP">Code</a>][<a href="/files/bprop_slides.pdf">Slides</a>][<a href="https://www.bilibili.com/video/BV1mV411H7du/">Video</a>]<br>
 <ins><b>Xinyu Ma</b></ins>, Jiafeng Guo, Ruqing Zhang, Yixin Fan, Yingyan Li, Xueqi Cheng. <br>
 <b>SIGIR'2021</b>, <i>(Full Paper, Acceptance Rate = 21%)</i> <br>
 </li>
 
-<li> <b>PROP: Pre-training with Representative Words Prediction for Ad-hoc Retrieval.</b> [<a href="https://arxiv.org/abs/2010.10137">PDF</a>][<a href="https://github.com/Albert-Ma/PROP">Code</a>][<a href="file://///files/prop_slides.pdf">Slides</a>][<a href="https://www.bilibili.com/video/BV1by4y1T7k7/">Video</a>] <br>
+<li> <b>PROP: Pre-training with Representative Words Prediction for Ad-hoc Retrieval.</b> [<a href="https://arxiv.org/abs/2010.10137">PDF</a>][<a href="https://github.com/Albert-Ma/PROP">Code</a>][<a href="/files/prop_slides.pdf">Slides</a>][<a href="https://www.bilibili.com/video/BV1by4y1T7k7/">Video</a>] <br>
 <ins><b>Xinyu Ma</b></ins>, Jiafeng Guo, Ruqing Zhang, Yixin Fan, Xiang Ji, Xueqi Cheng. <br>
 <b>WSDM'2021</b>, <i>(Full Oral Paper, Acceptance Rate = 18.6%)</i> <br>
 </li>
