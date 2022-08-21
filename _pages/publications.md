@@ -59,7 +59,7 @@ Yixin Fan, Jiafeng Guo, <ins><b>Xinyu Ma</b></ins>, Ruqing Zhang, Yanyan Lan, Xu
 <b>WWW'2021</b>, <i>(Full Paper, Acceptance Rate = 20.6%)</i> <br>
 </li>
 
-<li> <b>关于短文本匹配的泛化性和迁移性的研究分析(An Empirical Investigation of Generalization and Transfer in Short Text Matching).</b> [<a href="file:////files/crad2022-short-text-matching.pdf">PDF</a>]<br>
+<li> <b>关于短文本匹配的泛化性和迁移性的研究分析(An Empirical Investigation of Generalization and Transfer in Short Text Matching).</b> [<a href="/files/crad2022-short-text-matching.pdf">PDF</a>]<br>
 <ins><b>Xinyu Ma</b></ins>, Yixing Fan, Jiafeng Guo, Ruqing Zhang, Lixin Su, Xueqi Cheng. <br>
 <b>计算机研究与发展'2021</b>, <i>(CCF A 中文期刊)</i>
 </li>
