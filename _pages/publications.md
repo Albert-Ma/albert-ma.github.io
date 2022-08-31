@@ -11,12 +11,12 @@ author_profile: true
 
 <ol start="8" reversed="reversed">
 
-<li> <b>Scattered or Connected? An Optimized Parameter-efficient Tuning Approach for Information Retrieval.</b> <br>
+<li> <b>Scattered or Connected? An Optimized Parameter-efficient Tuning Approach for Information Retrieval.</b> [<a href="https://arxiv.org/pdf/2208.09847.pdf">PDF</a>]<br>
 <ins><b>Xinyu Ma</b></ins>, Jiafeng Guo, Ruqing Zhang, Yixing Fan, Xueqi Cheng. <br>
 <b>CIKM'2022</b>, <i>(Full Paper)</i> <br>
 </li>
 
-<li> <b>A Contrastive Pre-training Approach to Discriminative Autoencoder for Dense Retrieval</b> <br>
+<li> <b>A Contrastive Pre-training Approach to Discriminative Autoencoder for Dense Retrieval</b> [<a href="https://arxiv.org/pdf/2208.09846.pdf">PDF</a>]<br>
 <ins><b>Xinyu Ma</b></ins>, Ruqing Zhang, Jiafeng Guo, Yixing Fan, Xueqi Cheng. <br>
 <b>CIKM'2022</b>, <i>(Short Paper)</i> <br>
 </li>
@@ -32,7 +32,7 @@ Yixing Fan<sup>*</sup>, Xiaohui Xie<sup>*</sup>, Yinqiong Cai, Jia Chen, <ins><b
 Preprint. (I wrote Section 4 and Section 6.) <br> 
 </li>
 
-<li> <b>Pre-train a Discriminative Text Encoder for Dense Retrieval via Contrastive Span Prediction.</b> [<a href="https://arxiv.org/abs/2204.10641">PDF</a>][<a href="https://github.com/Albert-Ma/COSTA">Code</a>]<br>
+<li> <b>Pre-train a Discriminative Text Encoder for Dense Retrieval via Contrastive Span Prediction.</b> [<a href="https://arxiv.org/abs/2204.10641">PDF</a>][<a href="https://github.com/Albert-Ma/COSTA">Code</a>][<a href="/files/costa_slides.pdf">Slides</a>][<a href="https://dl.acm.org/doi/abs/10.1145/3477495.3531772">Video</a>]<br>
 <ins><b>Xinyu Ma</b></ins>, Jiafeng Guo, Ruqing Zhang, Yixing Fan, Xueqi Cheng. <br>
 <b>SIGIR'2022</b>, <i>(Full Paper, Acceptance Rate = 20%)</i> <br>
 </li>
