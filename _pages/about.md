@@ -12,6 +12,7 @@ I am a fifth-year Ph.D. student in Computer Science at [Institute of Computing T
 <!-- I also work with [Yixing Fan](http://www.bigdatalab.ac.cn/~fanyixing/) and [Ruqing Zhang](http://www.bigdatalab.ac.cn/~zhangruqing/).  -->
 My research is focused on the core problem in information retrieval (IR), i.e., **Ranking**.
 Specifically, my current research interests are in leveraging pre-trained language models into IR, including but not limited to **understanding the relevance in IR**, **pre-training for IR** and **dense retrieval**.
+Here is my [CV](/files/XinyuMa_CV_en_20220922.pdf).
 
 ### <span style="color:#2561a0">Highlight</span>
 - A survey of Pre-training for IR: [Pre-training Methods in Information Retrieval](https://arxiv.org/abs/2111.13853)
