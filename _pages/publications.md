@@ -11,7 +11,7 @@ author_profile: true
 
 <ol start="8" reversed="reversed">
 
-<li> <b>Scattered or Connected? An Optimized Parameter-efficient Tuning Approach for Information Retrieval.</b> [<a href="https://arxiv.org/pdf/2208.09847.pdf">PDF</a>]<br>
+<li> <b>Scattered or Connected? An Optimized Parameter-efficient Tuning Approach for Information Retrieval.</b> [<a href="https://arxiv.org/pdf/2208.09847.pdf">PDF</a>][<a href="/files/cikm2022-pet4ir.pdf">Slides</a>]<br>
 <ins><b>Xinyu Ma</b></ins>, Jiafeng Guo, Ruqing Zhang, Yixing Fan, Xueqi Cheng. <br>
 <b>CIKM'2022</b>, <i>(Full Paper)</i> <br>
 </li>
