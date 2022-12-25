@@ -19,6 +19,7 @@ Here is my [CV](/files/XinyuMa_CV_en_20220922.pdf).
 - [A curated list of awesome papers on pre-trained models for IR](https://github.com/Albert-Ma/awesome-pretrained-models-for-information-retrieval)
 
 ### <span style="color:#2561a0">News and Events</span>
+- [Deceber. 2022] I defended my PhD thesis: "Pre-training and Fine-tuning Methods Tailored for Information Retrieval" [Slides(in Chinese)](/files/PhD-thesis-slides.pdf).
 - [Feburary. 2022] Invited talk at the [PLM4IR workshop](https://plm4ir.github.io/) of WSDM'2022.
 - [October. 2021] Invited talk at the Baidu NLP group, Beijing.
 - [May. 2021] Invited talk "pretrained models for inforamtion retrieval", at the Alipay Search Department of Ant Group, Beijing.
