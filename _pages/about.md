@@ -30,7 +30,7 @@ Here is my [CV](/files/XinyuMa_CV_en_20220922.pdf).
 ### Education
 
 - **Institute of Computing Technology, Chinese Academy of Sciences**
-  - Ph.D. in Computer Science, 2019 - present
+  - Ph.D. in Computer Science, 2019 - 2022
   - Advisor: Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/)
 
 - **Institute of Computing Technology, Chinese Academy of Sciences**
