@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. student in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/), advised by Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/). 
-<!-- I also work with [Yixing Fan](http://www.bigdatalab.ac.cn/~fanyixing/) and [Ruqing Zhang](http://www.bigdatalab.ac.cn/~zhangruqing/).  -->
+I am now a Senior R&D Engineer at Baidu Search. I received the Ph.D. degree in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/), advised by Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/). 
 My research is focused on the core problem in information retrieval (IR), i.e., **Ranking**.
-Specifically, my current research interests are in leveraging pre-trained language models into IR, including but not limited to **understanding the relevance in IR**, **pre-training for IR** and **dense retrieval**.
-Here is my [CV](/files/XinyuMa_CV_en_20220922.pdf).
+Specifically, my current research interests are in leveraging pre-trained language models into IR, such as Pre-training for IR and Dense Retrieval. Here is my [CV](/files/XinyuMa_CV_en_20220922.pdf).
+<!-- including but not limited to **understanding the relevance in IR**, **pre-training for IR** and **dense retrieval**. -->
 
+Contact me via email if you have any interest in discussing/working/cooperating with me.
 
-This email, i.e., maxinyu17g@ict.ac.cn, is no longer in use. Please contact me via xinyuma2016@gmail.com.
 
 ### <span style="color:#2561a0">Highlight</span>
 - A survey of Pre-training for IR: [Pre-training Methods in Information Retrieval](https://arxiv.org/abs/2111.13853)
@@ -30,8 +29,10 @@ This email, i.e., maxinyu17g@ict.ac.cn, is no longer in use. Please contact me v
 - [Jan. 2021] Our PROP model reached the top of the MSMARCO Document Ranking [leaderboard](https://microsoft.github.io/MSMARCO-Document-Ranking-Submissions/leaderboard/).
 
 
-### Education
+### Experience
 
+- Baidu Inc, Beijing
+  - 2023 - present
 - **Institute of Computing Technology, Chinese Academy of Sciences**
   - Ph.D. in Computer Science, 2019 - 2022
   - Advisor: Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/)
