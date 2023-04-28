@@ -6,6 +6,16 @@ author_profile: true
 ---
 
 
+### 2023
+<ol start="9" reversed="reversed">
+
+<li> <b>Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent.</b> [<a href="https://arxiv.org/pdf/2208.09847.pdf">PDF</a>]<br>
+Weiwei Sun, Lingyong Yan, <ins><b>Xinyu Ma</b></ins>, Pengjie Ren, Dawei Yin, Zhaochun Ren 
+<br>
+<b>Arxiv</b> preprint <br>
+</li>
+</ol>
+
 
 ### 2022
 
