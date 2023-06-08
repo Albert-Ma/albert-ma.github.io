@@ -13,7 +13,7 @@ My research is focused on the core problem in information retrieval (IR), i.e., 
 Specifically, my current research interests are in leveraging pre-trained language models into IR, such as Pre-training for IR and Dense Retrieval. Here is my [CV](/files/XinyuMa_CV_en.pdf).
 <!-- including but not limited to **understanding the relevance in IR**, **pre-training for IR** and **dense retrieval**. -->
 
-Contact me via email if you have any interest in discussing/working/cooperating with me.
+Contact me via email xinyuma AT gmail DOT com
 
 
 ### <span style="color:#2561a0">Highlight</span>
