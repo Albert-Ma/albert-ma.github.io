@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am now a Senior R&D Engineer at Baidu Search. I received the Ph.D. degree in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/), advised by Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/). 
+I am now a Senior R&D Engineer at Baidu Search. I received the Ph.D. degree in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/), advised by Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/) in 2023. 
+Before that, I received the B.E. from Shandong university in 2017.
 My research is focused on the core problem in information retrieval (IR), i.e., **Ranking**.
 Specifically, my current research interests are in leveraging pre-trained language models into IR, such as Pre-training for IR and Dense Retrieval. Here is my [CV](/files/XinyuMa_CV_en.pdf).
 <!-- including but not limited to **understanding the relevance in IR**, **pre-training for IR** and **dense retrieval**. -->
