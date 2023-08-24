@@ -7,6 +7,16 @@ author_profile: true
 
 
 ### 2023
+
+<ol start="10" reversed="reversed">
+
+<li> <b>Pre-training with Aspect-Content Text Mutual Prediction for Multi-Aspect Dense Retrieval.</b> [<a href="https://arxiv.org/pdf/2308.11474.pdf">PDF</a>][<a href="https://github.com/sunxiaojie99/ATTEMPT">Code</a>]<br>
+Xiaojie Sun, Keping Bi, Jiafeng Guo, <ins><b>Xinyu Ma</b></ins>, Fan Yixing, Hongyu Shan, Qishen Zhang, Zhongyi Liu
+<br>
+<b>CIKM'2023</b>, <i>(Short Paper)</i> <br>
+</li>
+</ol>
+
 <ol start="9" reversed="reversed">
 
 <li> <b>Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent.</b> [<a href="https://arxiv.org/pdf/2208.09847.pdf">PDF</a>][<a href="https://github.com/sunnweiwei/RankGPT">Code</a>]<br>
