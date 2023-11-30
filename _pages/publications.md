@@ -13,7 +13,7 @@ author_profile: true
 <li> <b>Instruction Distillation Makes Large Language Models Efficient Zero-shot Rankers.</b> [<a href="https://arxiv.org/pdf/2311.01555.pdf">PDF</a>][<a href="https://github.com/sunnweiwei/RankGPT">Code</a>]<br>
 Weiwei Sun, Zheng Chen, <ins><b>Xinyu Ma</ins></b>, Lingyong Yan, Shuaiqiang Wang, Pengjie Ren, Zhumin Chen, Dawei Yin, Zhaochun Ren
 <br>
-<b>Arxiv 2023</b>, <i></i> <br>
+<b>Arxiv 2023</b>, <br>
 </li>
 </ol>
 
