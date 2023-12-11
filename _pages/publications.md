@@ -32,7 +32,7 @@ Xiaojie Sun, Keping Bi, Jiafeng Guo, <ins><b>Xinyu Ma</b></ins>, Fan Yixing, Hon
 <li> <b>Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent.</b> [<a href="https://arxiv.org/pdf/2208.09847.pdf">PDF</a>][<a href="https://github.com/sunnweiwei/RankGPT">Code</a>]<br>
 Weiwei Sun, Lingyong Yan, <ins><b>Xinyu Ma</b></ins>, Pengjie Ren, Dawei Yin, Zhaochun Ren 
 <br>
-<b>EMNLP'2023</b> <i>(Full Paper, Main Conference)</i> <br>
+<b>EMNLP'2023</b> <i>(Full Paper, <span style="color:#DC143C"> Outstanding Paper Award </span>)</i> <br>
 </li>
 </ol>
 

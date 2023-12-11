@@ -22,6 +22,7 @@ Specifically, my current research interests are in leveraging pre-trained langua
 - [A curated list of awesome papers on pre-trained models for IR](https://github.com/Albert-Ma/awesome-pretrained-models-for-information-retrieval)
 
 ### <span style="color:#2561a0">News and Events</span>
+- [Deceber. 2023] Our paper "Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent" won <span style="color:#DC143C">EMNLP2023 Outstanding Paper Award!</span> 
 - [Deceber. 2022] I have defended my PhD thesis: "Pre-training and Fine-tuning Methods Tailored for Information Retrieval" [Slides(in Chinese)](/files/PhD-thesis-slides.pdf).
 - [Feburary. 2022] Invited talk at the [PLM4IR workshop](https://plm4ir.github.io/) of WSDM'2022.
 - [October. 2021] Invited talk at the Baidu NLP group, Beijing.
