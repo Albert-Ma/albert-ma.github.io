@@ -5,6 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
+### 2024
+
+<ol start="12" reversed="reversed">
+
+<li> <b>The Butterfly Effect of Model Editing: Few Edits Can Trigger Large Language Models Collapse.</b> [<a href="https://arxiv.org/pdf/2402.09656.pdf">PDF</a>]<br>
+Wanli Yang, Fei Sun, <ins><b>Xinyu Ma</b></ins>, Xun Liu, Dawei Yin, Xueqi Cheng
+<br>
+<b>Arxiv 2024</b>
+</li>
+</ol>
+
 
 ### 2023
 
@@ -30,7 +41,7 @@ Xiaojie Sun, Keping Bi, Jiafeng Guo, <ins><b>Xinyu Ma</b></ins>, Fan Yixing, Hon
 <ol start="9" reversed="reversed">
 
 <li> <b>Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent.</b> [<a href="https://arxiv.org/pdf/2208.09847.pdf">PDF</a>][<a href="https://github.com/sunnweiwei/RankGPT">Code</a>]<br>
-Weiwei Sun, Lingyong Yan, <ins><b>Xinyu Ma</b></ins>, Pengjie Ren, Dawei Yin, Zhaochun Ren 
+Weiwei Sun, Lingyong Yan, <ins><b>Xinyu Ma</b></ins>, Shuaiqiang Wang, Pengjie Ren, Zhumin Chen, Dawei Yin, Zhaochun Ren 
 <br>
 <b>EMNLP'2023</b> <i>(Full Paper)</i> <span style="color:#DC143C"> Outstanding Paper Award </span> <br>
 </li>
@@ -59,7 +70,7 @@ Weiwei Sun, Lingyong Yan, <ins><b>Xinyu Ma</b></ins>, Pengjie Ren, Dawei Yin, Zh
 
 <li> <b>Pre-training Methods in Information Retrieval.</b> [<a href="https://arxiv.org/abs/2111.13853">PDF</a>][<a href="https://github.com/ict-bigdatalab/awesome-pretrained-models-for-information-retrieval">Code</a>] <br>
 Yixing Fan<sup>*</sup>, Xiaohui Xie<sup>*</sup>, Yinqiong Cai, Jia Chen, <ins><b>Xinyu Ma</b></ins>, Xiangsheng Li, Ruqing Zhang, Jiafeng Guo. (<sup>*</sup>Equal contribution) <br>
-Preprint. (I wrote Section 4 and Section 6.) <br> 
+Foundations and Trends® in Information Retrieval. (I wrote Section 4 and Section 6.) <br> 
 </li>
 
 <li> <b>Pre-train a Discriminative Text Encoder for Dense Retrieval via Contrastive Span Prediction.</b> [<a href="https://arxiv.org/abs/2204.10641">PDF</a>][<a href="https://github.com/Albert-Ma/COSTA">Code</a>][<a href="/files/costa_slides.pdf">Slides</a>][<a href="https://dl.acm.org/doi/abs/10.1145/3477495.3531772">Video</a>]<br>
