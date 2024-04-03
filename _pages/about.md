@@ -36,8 +36,9 @@ Specifically, my current research interests are in leveraging pre-trained langua
 
 ### Experience
 
-- Baidu Inc, Beijing
+- [Search Science Team](https://searchscience.baidu.com/), Baidu Inc, Beijing
   - 2023 - present
+  - Director: Dr. [Dawei Yin](https://www.yindawei.com/)
 - **Institute of Computing Technology, Chinese Academy of Sciences**
   - Ph.D. in Computer Science, 2019 - 2022
   - Advisor: Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/)
