@@ -17,7 +17,7 @@ I have broad research interests in information retrieval and natural language pr
 Specifically, my current research interests are in leveraging pre-trained language models into IR, such as Pre-training for IR and Dense Retrieval. Here is my [CV](/files/XinyuMa_CV_en.pdf). -->
 <!-- including but not limited to **understanding the relevance in IR**, **pre-training for IR** and **dense retrieval**. -->
 
-<span style="color:#DC143C">招研究实习生, 有研究经验的优先, email: xinyuma2016 AT gmail DOT com;</span> 
+<!-- <del><span style="color:#DC143C">招研究实习生, 有研究经验的优先, email: xinyuma2016 AT gmail DOT com;</span> </del> -->
 
 
 ### <span style="color:#2561a0">Highlight</span>
