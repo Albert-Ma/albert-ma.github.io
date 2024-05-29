@@ -12,7 +12,7 @@ author_profile: true
 <li> <b>The Butterfly Effect of Model Editing: Few Edits Can Trigger Large Language Models Collapse.</b> [<a href="https://arxiv.org/pdf/2402.09656.pdf">PDF</a>]<br>
 Wanli Yang, Fei Sun, <ins><b>Xinyu Ma</b></ins>, Xun Liu, Dawei Yin, Xueqi Cheng
 <br>
-<b>Arxiv 2024</b>
+<b>ACL Findings 2024</b>
 </li>
 </ol>
 
