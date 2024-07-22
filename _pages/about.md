@@ -52,11 +52,11 @@ Specifically, my current research interests are in leveraging pre-trained langua
 
 
 ### Hornors and Awards
-- Beijing Outstanding Undergraduate Award, 2023
+- Beijing Outstanding Graduate, 2023
 - Special Award for the Director of the ICT, CAS, 2021
 - National Scholarship (Ph.D), 2021
 - SIGIR'2021 Student Travel Grant
-- Shandong Province Outstanding Undergraduate Award, 2017
+- Shandong Province Outstanding Undergraduate, 2017
 - National Scholarship (B.E.), 2016
 - National Encouragement Scholarship, 2015
 
