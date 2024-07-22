@@ -17,7 +17,7 @@ I have broad research interests in information retrieval and natural language pr
 Specifically, my current research interests are in leveraging pre-trained language models into IR, such as Pre-training for IR and Dense Retrieval. Here is my [CV](/files/XinyuMa_CV_en.pdf). -->
 <!-- including but not limited to **understanding the relevance in IR**, **pre-training for IR** and **dense retrieval**. -->
 
-<!-- <del><span style="color:#DC143C">招研究实习生, 有研究经验的优先, email: xinyuma2016 AT gmail DOT com;</span> </del> -->
+<p>有兴趣实习的可以联系 email: xinyuma2016 AT gmail DOT com;</p>
 
 
 ### <span style="color:#2561a0">Highlight</span>
@@ -38,7 +38,7 @@ Specifically, my current research interests are in leveraging pre-trained langua
 
 - [Search Science Team](https://searchscience.baidu.com/), Baidu Inc, Beijing
   - 2023 - present
-  - Director: Dr. [Dawei Yin](https://www.yindawei.com/)
+
 - **Institute of Computing Technology, Chinese Academy of Sciences**
   - Ph.D. in Computer Science, 2019 - 2022
   - Advisor: Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/)
@@ -52,6 +52,7 @@ Specifically, my current research interests are in leveraging pre-trained langua
 
 
 ### Hornors and Awards
+- Beijing Outstanding Undergraduate Award, 2023
 - Special Award for the Director of the ICT, CAS, 2021
 - National Scholarship (Ph.D), 2021
 - SIGIR'2021 Student Travel Grant
