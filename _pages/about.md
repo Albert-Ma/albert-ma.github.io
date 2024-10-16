@@ -21,10 +21,12 @@ Specifically, my current research interests are in leveraging pre-trained langua
 
 
 ### <span style="color:#2561a0">Highlight</span>
+- A benchmark for evaluating instructed information retrieval models: [MAIR](https://github.com/sunnweiwei/Mair)
 - A survey of Pre-training for IR: [Pre-training Methods in Information Retrieval](https://arxiv.org/abs/2111.13853)
 - [A curated list of awesome papers on pre-trained models for IR](https://github.com/Albert-Ma/awesome-pretrained-models-for-information-retrieval)
 
 ### <span style="color:#2561a0">News and Events</span>
+- [Octorber. 2024] We have released a massive benchmark for evaluating instructed information retrieval models: [MAIR](https://github.com/sunnweiwei/Mair)
 - [Deceber. 2023] Our paper "Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent" won the <span style="color:#DC143C"> Outstanding Paper Award of EMNLP2023!</span> 
 - [Deceber. 2022] I have defended my PhD thesis: "Pre-training and Fine-tuning Methods Tailored for Information Retrieval" [Slides(in Chinese)](/files/PhD-thesis-slides.pdf).
 - [Feburary. 2022] Invited talk at the [PLM4IR workshop](https://plm4ir.github.io/) of WSDM'2022.
