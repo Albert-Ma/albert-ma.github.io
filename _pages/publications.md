@@ -6,10 +6,29 @@ author_profile: true
 ---
 
 ### 2024
+<ol start="14" reversed="reversed">
+
+<li> <b>MAIR: A Massive Benchmark for Evaluating Instructed Retrieval.</b> [<a href="https://arxiv.org/pdf/2410.10127">PDF</a>][<a href="https://github.com/sunnweiwei/Mair">Code</a>]<br>
+Weiwei Sun, Zhengliang Shi, Jiulong Wu, Lingyong Yan, <ins><b>Xinyu Ma</b></ins>, Yiding Liu, Min Cao, Dawei Yin, Zhaochun Ren
+<br>
+<b>EMNLP'2024 Main</b>
+</li>
+</ol>
+
+
+<ol start="13" reversed="reversed">
+
+<li> <b>Understanding the Collapse of LLMs in Model Editing.</b> [<a href="https://arxiv.org/pdf/2406.11263">PDF</a>]<br>
+Wanli Yang, Fei Sun, Jiajun Tan, <ins><b>Xinyu Ma</b></ins>, Du Su, Dawei Yin, Huawei Shen
+<br>
+<b>EMNLP'2024 Findings</b>
+</li>
+</ol>
+
 
 <ol start="12" reversed="reversed">
 
-<li> <b>The Butterfly Effect of Model Editing: Few Edits Can Trigger Large Language Models Collapse.</b> [<a href="https://arxiv.org/pdf/2402.09656.pdf">PDF</a>]<br>
+<li> <b>The Butterfly Effect of Model Editing: Few Edits Can Trigger Large Language Models Collapse.</b> [<a href="https://arxiv.org/pdf/2402.09656.pdf">PDF</a>][<a href="https://github.com/WanliYoung/Collapse-in-Model-Editing">Code</a>][<a href="https://yangwl.site/collapse-in-model-editing/">Website</a>]<br>
 Wanli Yang, Fei Sun, <ins><b>Xinyu Ma</b></ins>, Xun Liu, Dawei Yin, Xueqi Cheng
 <br>
 <b>ACL'2024 Findings</b>
