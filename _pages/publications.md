@@ -6,6 +6,17 @@ author_profile: true
 ---
 
 ### 2024
+
+<ol start="15" reversed="reversed">
+
+<li> <b>JAILJUDGE: A Comprehensive Jailbreak Judge Benchmark with Multi-Agent Enhanced Explanation Evaluation Framework.</b> [<a href="https://arxiv.org/pdf/2410.12855">PDF</a>][<a href="https://github.com/usail-hkust/Jailjudge">Code</a>]<br>
+Fan Liu, Yue Feng, Zhao Xu, Lixin Su, <ins><b>Xinyu Ma</b></ins>, Dawei Yin, Hao Liu
+<br>
+<b>Arxiv</b>
+</li>
+</ol>
+
+
 <ol start="14" reversed="reversed">
 
 <li> <b>MAIR: A Massive Benchmark for Evaluating Instructed Retrieval.</b> [<a href="https://arxiv.org/pdf/2410.10127">PDF</a>][<a href="https://github.com/sunnweiwei/Mair">Code</a>]<br>
