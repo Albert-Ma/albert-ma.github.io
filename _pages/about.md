@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a Senior R&D Engineer at Baidu Search. Before that, I received the Ph.D. degree in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/), advised by Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/) in 2023. 
+I am now a research and development engineer at Baidu Search. Before that, I received the Ph.D. degree in Computer Science at [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/), advised by Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/) in 2023. 
 And I received the B.E. degree from Shandong university in 2017.
 I have broad research interests in information retrieval and natural language processing, especially in the pre-trained models (including Large Language Models) for Search. 
 
