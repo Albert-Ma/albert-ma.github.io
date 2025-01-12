@@ -5,7 +5,32 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+### 2025
+
+<ol start="16" reversed="reversed">
+
+<li> <b>Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation.</b> [<a href="https://arxiv.org/pdf/2412.14574">PDF</a>]<br>
+Shijie Wang, Wenqi Fan, Yue Feng, <ins><b>Xinyu Ma</b></ins>, Shuaiqiang Wang, Dawei Yin
+<br>
+<b>Arxiv</b>
+</li>
+</ol>
+
+
+
 ### 2024
+
+<ol start="16" reversed="reversed">
+
+<li> <b>Sliding Windows Are Not the End: Exploring Full Ranking with Long-Context Large Language Models.</b> [<a href="https://arxiv.org/pdf/2412.14574">PDF</a>][<a href="https://github.com/8421BCD/fullrank">Code</a>]<br>
+Wenhan Liu, <ins><b>Xinyu Ma</b></ins>, Yutao Zhu, Ziliang Zhao, Shuaiqiang Wang, Dawei Yin, Zhicheng Dou
+<br>
+<b>Arxiv</b>
+</li>
+</ol>
+
+
 
 <ol start="15" reversed="reversed">
 
@@ -54,7 +79,7 @@ Wanli Yang, Fei Sun, <ins><b>Xinyu Ma</b></ins>, Xun Liu, Dawei Yin, Xueqi Cheng
 <li> <b>Instruction Distillation Makes Large Language Models Efficient Zero-shot Rankers.</b> [<a href="https://arxiv.org/pdf/2311.01555.pdf">PDF</a>][<a href="https://github.com/sunnweiwei/RankGPT">Code</a>]<br>
 Weiwei Sun, Zheng Chen, <ins><b>Xinyu Ma</b></ins>, Lingyong Yan, Shuaiqiang Wang, Pengjie Ren, Zhumin Chen, Dawei Yin, Zhaochun Ren
 <br>
-<b>Arxiv 2023</b>
+<b>GenRec Workshop at CIKM 2023</b>
 </li>
 </ol>
 

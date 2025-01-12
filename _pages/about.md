@@ -42,11 +42,7 @@ Specifically, my current research interests are in leveraging pre-trained langua
   - 2023 - present
 
 - **Institute of Computing Technology, Chinese Academy of Sciences**
-  - Ph.D. in Computer Science, 2019 - 2022
-  - Advisor: Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/)
-
-- **Institute of Computing Technology, Chinese Academy of Sciences**
-  - M.S. in Computer Science, 2017 - 2019
+  - Ph.D. in Computer Science, 2017 - 2022
   - Advisor: Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/)
 
 - **Shandong University**
@@ -57,10 +53,8 @@ Specifically, my current research interests are in leveraging pre-trained langua
 - Beijing Outstanding Graduate, 2023
 - Special Award for the Director of the ICT, CAS, 2021
 - National Scholarship (Ph.D), 2021
-- SIGIR'2021 Student Travel Grant
 - Shandong Province Outstanding Undergraduate, 2017
 - National Scholarship (B.E.), 2016
-- National Encouragement Scholarship, 2015
 
 <style>
 .container{
