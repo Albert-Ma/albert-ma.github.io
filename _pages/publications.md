@@ -10,7 +10,7 @@ author_profile: true
 
 <ol start="17" reversed="reversed">
 
-<li> <b>Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation.</b> [<a href="https://arxiv.org/pdf/2412.14574">PDF</a>]<br>
+<li> <b>Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation.</b> [<a href="https://arxiv.org/pdf/2501.02226">PDF</a>]<br>
 Shijie Wang, Wenqi Fan, Yue Feng, <ins><b>Xinyu Ma</b></ins>, Shuaiqiang Wang, Dawei Yin
 <br>
 <b>Arxiv</b>
