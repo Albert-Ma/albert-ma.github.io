@@ -12,7 +12,7 @@ I am now a senior software engineer / researcher at Baidu Search.
 My work at Baidu includes research and development on ranking models powering Baidu's core search engine and now focusing on developing the next-generation search product based on large language models.
 Prior to joining Baidu, I earned my Ph.D. degree in Computer Science from the [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/), under the supervision of Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/) in 2023. 
 Additionally, I received the B.E. degree from Shandong university in 2017.
-I have broad research interests in information retrieval and natural language processing, especially in the Large Language Models for information accessing. 
+I have broad research interests in information retrieval and natural language processing, with a particular emphasis on harnessing the capabilities of large language models to revolutionize the way we access, understand, and utilize information. 
 
 <!-- <span style="color:#DC143C">百度大搜·招研究实习生 email: xinyuma2016 AT gmail DOT com;</span>  -->
 
