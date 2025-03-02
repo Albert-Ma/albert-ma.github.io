@@ -5,10 +5,37 @@ permalink: /publications/
 author_profile: true
 ---
 
+<br>
+<br>
+<a href="https://scholar.google.com/citations?user=DXYzAIkAAAAJ&hl=en&oi=ao">SEE All MY PUBLICATIONS ON Google Scholar</a>
+
+<br>
 
 ### 2025
 
-<ol start="17" reversed="reversed">
+
+
+<ol start="20" reversed="reversed">
+
+<li> <b>The Mirage of Model Editing: Revisiting Evaluation in the Wild.</b> [<a href="https://arxiv.org/pdf/2501.15228">PDF</a>][<a href="https://github.com/chenyiqun/MMOA-RAG">Code</a>]<br>
+Wanli Yang, Fei Sun, Jiajun Tan, <ins><b>Xinyu Ma</b></ins>, Qi Cao, Dawei Yin, Huawei Shen, Xueqi Cheng
+<br>
+<b>Arxiv</b>
+</li>
+</ol>
+
+
+<ol start="19" reversed="reversed">
+
+<li> <b>Improving Retrieval-Augmented Generation through Multi-Agent Reinforcement Learning.</b> [<a href="https://arxiv.org/pdf/2501.15228">PDF</a>][<a href="https://github.com/chenyiqun/MMOA-RAG">Code</a>]<br>
+Yiqun Chen, Lingyong Yan, Weiwei Sun, <ins><b>Xinyu Ma</b></ins>, Yi Zhang, Shuaiqiang Wang, Dawei Yin, Yiming Yang, Jiaxin Mao
+<br>
+<b>Arxiv</b>
+</li>
+</ol>
+
+
+<ol start="18" reversed="reversed">
 
 <li> <b>Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation.</b> [<a href="https://arxiv.org/pdf/2501.02226">PDF</a>]<br>
 Shijie Wang, Wenqi Fan, Yue Feng, <ins><b>Xinyu Ma</b></ins>, Shuaiqiang Wang, Dawei Yin
@@ -21,7 +48,7 @@ Shijie Wang, Wenqi Fan, Yue Feng, <ins><b>Xinyu Ma</b></ins>, Shuaiqiang Wang, D
 
 ### 2024
 
-<ol start="16" reversed="reversed">
+<ol start="17" reversed="reversed">
 
 <li> <b>Sliding Windows Are Not the End: Exploring Full Ranking with Long-Context Large Language Models.</b> [<a href="https://arxiv.org/pdf/2412.14574">PDF</a>][<a href="https://github.com/8421BCD/fullrank">Code</a>]<br>
 Wenhan Liu, <ins><b>Xinyu Ma</b></ins>, Yutao Zhu, Ziliang Zhao, Shuaiqiang Wang, Dawei Yin, Zhicheng Dou
@@ -29,6 +56,17 @@ Wenhan Liu, <ins><b>Xinyu Ma</b></ins>, Yutao Zhu, Ziliang Zhao, Shuaiqiang Wang
 <b>Arxiv</b>
 </li>
 </ol>
+
+<ol start="16" reversed="reversed">
+
+<li> <b>Tourrank: Utilizing Large Language Models for Documents Ranking with a Tournament-inspired Strategy.</b> [<a href="https://arxiv.org/pdf/2406.11678">PDF</a>][<a href="https://github.com/chenyiqun/TourRank">Code</a>]<br>
+Yiqun Chen, Qi Liu, Yi Zhang, Weiwei Sun, <ins><b>Xinyu Ma</b></ins>, Wei Yang, Daiting Shi, Jiaxin Mao, Dawei Yin
+<br>
+<b>WWW'2025</b>, <i>(Full Paper)</i>
+</li>
+</ol>
+
+
 
 
 
@@ -54,7 +92,7 @@ Weiwei Sun, Zhengliang Shi, Jiulong Wu, Lingyong Yan, <ins><b>Xinyu Ma</b></ins>
 
 <ol start="13" reversed="reversed">
 
-<li> <b>Understanding the Collapse of LLMs in Model Editing.</b> [<a href="https://arxiv.org/pdf/2406.11263">PDF</a>]<br>
+<li> <b>Understanding the Collapse of LLMs in Model Editing.</b> [<a href="https://arxiv.org/pdf/2406.11263">PDF</a>][<a href="https://github.com/WanliYoung/Collapse-in-Model-Editing">Code</a>]<br>
 Wanli Yang, Fei Sun, Jiajun Tan, <ins><b>Xinyu Ma</b></ins>, Du Su, Dawei Yin, Huawei Shen
 <br>
 <b>EMNLP'2024 Findings</b>
