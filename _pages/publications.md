@@ -1,15 +1,11 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-<br>
-<br>
 <a href="https://scholar.google.com/citations?user=DXYzAIkAAAAJ&hl=en&oi=ao">SEE All MY PUBLICATIONS ON Google Scholar</a>
 
-<br>
 
 ### 2025
 
