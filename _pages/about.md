@@ -59,7 +59,7 @@ I have broad research interests in information retrieval and natural language pr
 - SIGIR'2021 Student Travel Grant
 - Shandong Province Outstanding Undergraduate Award, 2017
 - National Scholarship (B.E.), 2016
-- National Encouragement Scholarship, 2015
+<!-- - National Encouragement Scholarship, 2015 -->
 
 <style>
 .container{
