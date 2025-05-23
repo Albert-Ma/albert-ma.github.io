@@ -10,13 +10,40 @@ author_profile: true
 ### 2025
 
 
+<ol start="23" reversed="reversed">
+<li> <b>M2oERank: Multi-Objective Mixture-of-Experts Enhanced Ranking for Satisfaction-Oriented Web Search.</b> [<a href="https://www.computer.org/csdl/proceedings-article/icde/2025/360300e441/26FZCCGE1i0">PDF</a>]<br>
+Yuchen Li, Hao Zhang, Yongqi Zhang, <ins><b>Xinyu Ma</b></ins>, Wenwen Ye, Naifei Song, Shuaiqiang Wang, Haoyi Xiong, Dawei Yin, Lei Chen
+<br>
+<b>ICDE'2025</b>
+</li>
+</ol>
+
+
+<ol start="22" reversed="reversed">
+<li> <b>Replication and Exploration of Generative Retrieval over Dynamic Corpora.</b> [<a href="https://arxiv.org/pdf/2504.17519">PDF</a>]<br>
+Zhen Zhang, <ins><b>Xinyu Ma</b></ins>, Weiwei Sun, Pengjie Ren, Zhumin Chen, Shuaiqiang Wang, Dawei Yin, Maarten de Rijke, Zhaochun Ren
+<br>
+<b>SIGIR'2025 Resource and Reproducibility Track</b>
+</li>
+</ol>
+
+
+<ol start="21" reversed="reversed">
+<li> <b>Reproducibility, Replicability, and Insights into Visual Document Retrieval with Late Interaction.</b> [<a href="https://arxiv.org/pdf/2505.07730">PDF</a>]<br>
+Jingfen Qiao, Jia-Huei Ju, <ins><b>Xinyu Ma</b></ins>, Evangelos Kanoulas, Andrew Yates
+<br>
+<b>SIGIR'2025 Resource and Reproducibility Track</b>
+</li>
+</ol>
+
+
 
 <ol start="20" reversed="reversed">
 
 <li> <b>The Mirage of Model Editing: Revisiting Evaluation in the Wild.</b> [<a href="https://arxiv.org/pdf/2501.15228">PDF</a>][<a href="https://github.com/chenyiqun/MMOA-RAG">Code</a>]<br>
 Wanli Yang, Fei Sun, Jiajun Tan, <ins><b>Xinyu Ma</b></ins>, Qi Cao, Dawei Yin, Huawei Shen, Xueqi Cheng
 <br>
-<b>Arxiv</b>
+<b>ACL'2025 main</b>
 </li>
 </ol>
 
@@ -36,7 +63,7 @@ Yiqun Chen, Lingyong Yan, Weiwei Sun, <ins><b>Xinyu Ma</b></ins>, Yi Zhang, Shua
 <li> <b>Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation.</b> [<a href="https://arxiv.org/pdf/2501.02226">PDF</a>]<br>
 Shijie Wang, Wenqi Fan, Yue Feng, <ins><b>Xinyu Ma</b></ins>, Shuaiqiang Wang, Dawei Yin
 <br>
-<b>Arxiv</b>
+<b>ACL'2025 main</b>
 </li>
 </ol>
 
@@ -49,7 +76,7 @@ Shijie Wang, Wenqi Fan, Yue Feng, <ins><b>Xinyu Ma</b></ins>, Shuaiqiang Wang, D
 <li> <b>Sliding Windows Are Not the End: Exploring Full Ranking with Long-Context Large Language Models.</b> [<a href="https://arxiv.org/pdf/2412.14574">PDF</a>][<a href="https://github.com/8421BCD/fullrank">Code</a>]<br>
 Wenhan Liu, <ins><b>Xinyu Ma</b></ins>, Yutao Zhu, Ziliang Zhao, Shuaiqiang Wang, Dawei Yin, Zhicheng Dou
 <br>
-<b>Arxiv</b>
+<b>ACL'2025 main</b>
 </li>
 </ol>
 
