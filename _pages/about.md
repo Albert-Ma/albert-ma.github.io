@@ -20,15 +20,16 @@ I have broad research interests in information retrieval and natural language pr
 
 
 ### <span style="color:#2561a0">Highlight</span>
+- A perspective paper [Towards AI Search Paradigm.](https://arxiv.org/pdf/2506.17188) is released.
 - A benchmark for evaluating instructed information retrieval models: [MAIR](https://github.com/sunnweiwei/Mair)
 - A survey of Pre-training for IR: [Pre-training Methods in Information Retrieval](https://arxiv.org/abs/2111.13853)
 - [A curated list of awesome papers on pre-trained models for IR](https://github.com/Albert-Ma/awesome-pretrained-models-for-information-retrieval)
+
 
 ### <span style="color:#2561a0">News and Events</span>
 - [Octorber. 2024] We have released a massive benchmark for evaluating instructed information retrieval models: [MAIR](https://github.com/sunnweiwei/Mair)
 - [Deceber. 2023] Our paper "Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent" won the <span style="color:#DC143C"> Outstanding Paper Award of EMNLP2023!</span> 
 - [Deceber. 2022] I have defended my PhD thesis: "Pre-training and Fine-tuning Methods Tailored for Information Retrieval" [Slides(in Chinese)](/files/PhD-thesis-slides.pdf).
-- [Feburary. 2022] Invited talk at the [PLM4IR workshop](https://plm4ir.github.io/) of WSDM'2022.
 - [October. 2021] Invited talk at the Baidu NLP group, Beijing.
 - [May. 2021] Invited talk "pretrained models for inforamtion retrieval", at the Alipay Search Department of Ant Group, Beijing.
 - [Apr. 2021] Our PROP model reached the top of the MSMARCO Document Ranking [leaderboard](https://microsoft.github.io/MSMARCO-Document-Ranking-Submissions/leaderboard/) Again!
