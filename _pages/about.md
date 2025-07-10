@@ -20,7 +20,7 @@ I have broad research interests in information retrieval and natural language pr
 
 
 ### <span style="color:#2561a0">Highlight</span>
-- A perspective paper [Towards AI Search Paradigm.](https://arxiv.org/pdf/2506.17188) is released.
+- Checkout our recent AI search ''[Towards AI Search Paradigm](https://arxiv.org/pdf/2506.17188)'' paper.
 - A benchmark for evaluating instructed information retrieval models: [MAIR](https://github.com/sunnweiwei/Mair)
 - A survey of Pre-training for IR: [Pre-training Methods in Information Retrieval](https://arxiv.org/abs/2111.13853)
 - [A curated list of awesome papers on pre-trained models for IR](https://github.com/Albert-Ma/awesome-pretrained-models-for-information-retrieval)
