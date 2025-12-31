@@ -10,6 +10,24 @@ author_profile: true
 ### 2025
 
 
+
+<ol start="25" reversed="reversed">
+<li> <b>Towards AI Search Paradigm.</b> [<a href="https://arxiv.org/pdf/2506.17188">PDF</a>]<br>
+Baidu AI Search Team
+<br>
+<b>Arxiv 2025</b>
+</li>
+</ol>
+
+<ol start="24" reversed="reversed">
+<li> <b>Fultr: A Large-scale Fusion Learning to Rank Dataset and Its Application for Satisfaction-oriented Ranking.</b> [<a href="https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/li-2025-fultr.pdf">PDF</a>]<br>
+Yuchen Li, Hao Zhang, Haojie Zhang, Hengyi Cai, <ins><b>Xinyu Ma</b></ins>, Shuaiqiang Wang, Haoyi Xiong, Zhaochun Ren, Maarten de Rijke, Dawei Yin
+<br>
+<b>SIGKDD'2025</b>
+</li>
+</ol>
+
+
 <ol start="23" reversed="reversed">
 <li> <b>M2oERank: Multi-Objective Mixture-of-Experts Enhanced Ranking for Satisfaction-Oriented Web Search.</b> [<a href="https://www.computer.org/csdl/proceedings-article/icde/2025/360300e441/26FZCCGE1i0">PDF</a>]<br>
 Yuchen Li, Hao Zhang, Yongqi Zhang, <ins><b>Xinyu Ma</b></ins>, Wenwen Ye, Naifei Song, Shuaiqiang Wang, Haoyi Xiong, Dawei Yin, Lei Chen
@@ -53,7 +71,7 @@ Wanli Yang, Fei Sun, Jiajun Tan, <ins><b>Xinyu Ma</b></ins>, Qi Cao, Dawei Yin, 
 <li> <b>Improving Retrieval-Augmented Generation through Multi-Agent Reinforcement Learning.</b> [<a href="https://arxiv.org/pdf/2501.15228">PDF</a>][<a href="https://github.com/chenyiqun/MMOA-RAG">Code</a>]<br>
 Yiqun Chen, Lingyong Yan, Weiwei Sun, <ins><b>Xinyu Ma</b></ins>, Yi Zhang, Shuaiqiang Wang, Dawei Yin, Yiming Yang, Jiaxin Mao
 <br>
-<b>Arxiv</b>
+<b>NeurIPS'2025</b>
 </li>
 </ol>
 
@@ -88,9 +106,6 @@ Yiqun Chen, Qi Liu, Yi Zhang, Weiwei Sun, <ins><b>Xinyu Ma</b></ins>, Wei Yang, 
 <b>WWW'2025</b>, <i>(Full Paper)</i>
 </li>
 </ol>
-
-
-
 
 
 <ol start="15" reversed="reversed">
