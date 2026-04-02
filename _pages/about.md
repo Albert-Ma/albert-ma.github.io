@@ -26,6 +26,7 @@ I have broad research interests in information retrieval and natural language pr
 
 
 ### <span style="color:#2561a0">News and Events</span>
+- [March. 2026] Our paper “LLM-Based Listwise Reranking Under the Effect of Positional Bias” won the <span style="color:#DC143C"> Best Paper Award at ECIR 2026!</span> 
 - [August. 2025] Our ReasonRank model reached the top of the BRIGHT [leaderboard](https://brightbenchmark.github.io/).
 - [Octorber. 2024] We have released a massive benchmark for evaluating instructed information retrieval models: [MAIR](https://github.com/sunnweiwei/Mair)
 - [Deceber. 2023] Our paper "Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent" won the <span style="color:#DC143C"> Outstanding Paper Award of EMNLP2023!</span> 
