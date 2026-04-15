@@ -43,12 +43,12 @@ I have broad research interests in information retrieval and natural language pr
   - 2023 - present
   
 - **Institute of Computing Technology, Chinese Academy of Sciences**
-  - Ph.D. in Computer Science, 2019 - 2022
+  - Ph.D. in Computer Science, 2017 - 2022
   - Advisor: Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/)
 
-- **Institute of Computing Technology, Chinese Academy of Sciences**
+<!-- - **Institute of Computing Technology, Chinese Academy of Sciences**
   - M.S. in Computer Science, 2017 - 2019
-  - Advisor: Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/)
+  - Advisor: Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/) -->
 
 - **Shandong University**
   - B.E. in Software Engineering, 2013 - 2017
