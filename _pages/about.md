@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Staff Engineer at Baidu Search, leading the AI Overview Nearline Engineering team and the Whole Page ReRanking team.
-My work at Baidu focuses on researching and building next-generation search products powered by large language models.
+<!-- I am currently a Staff Engineer at Baidu Search, leading the AI Overview Nearline Engineering team and the Whole Page ReRanking team.
+My work at Baidu focuses on researching and building next-generation search products powered by large language models. -->
+I am currently a Staff Engineer at Baidu, working on Agents.
 
 Prior to joining Baidu, I earned my Ph.D. degree in Computer Science from the [Institute of Computing Technology](http://www.ict.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/), under the supervision of Prof. [Jiafeng Guo](http://www.bigdatalab.ac.cn/~gjf/) in 2023. 
 Additionally, I received the B.E. degree from Shandong university in 2017.
