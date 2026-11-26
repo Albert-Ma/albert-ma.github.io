@@ -1,4 +1,6 @@
 @font-face{font-family:icons;src:url("../fonts/fa-solid-900.woff2")}@font-face{font-family:brands;src:url("../fonts/fa-brands-400.woff2")}
+@font-face{font-family:icons;src:url("../fonts/fa-solid-900-site.woff2");unicode-range:U+F002,U+F091,U+F0E0,U+F15C,U+F185,U+F186,U+F19D,U+F518,U+F51C,U+F521,U+F545,U+F559}
+@font-face{font-family:brands;src:url("../fonts/fa-brands-400-site.woff2");unicode-range:U+F09B}
 :root{color-scheme:dark;--bg:#101211;--panel:#151816;--ink:#f4f5ef;--muted:#abb0a8;--lime:#c2f67a;--edge:#30352f;--mono:"SFMono-Regular",Consolas,"Liberation Mono",monospace;--sans:Inter,"Helvetica Neue",Arial,sans-serif}
 *{box-sizing:border-box}
 html{scroll-behavior:smooth;scroll-padding-top:24px}
@@ -546,4 +548,24 @@ body[data-page="home"] > footer { margin-block:0; padding-block:clamp(10px,1.6sv
   & .art-search { --art-bg:#eef4e7; --tone:#456528; }
   & .art-retrieval { --art-bg:#f3eef7; --tone:#6b4987; }
   & .art-agents { --art-bg:#edf5f5; --tone:#326975; }
+}
+
+/* Reserve photo frames from first paint, including while images decode. */
+.hero-photo {
+  background:linear-gradient(160deg,#d5af88 0%,#c6aa90 30%,#78776d 65%,#4e5755);
+}
+.media-pending {
+  background-image:linear-gradient(110deg,var(--panel),var(--edge) 52%,var(--panel));
+}
+.highlight-photo.media-pending img,.organization-mark.media-pending img { opacity:0; }
+
+/* Match the five-column research layout while the archive and its star flags load. */
+#selected-publications[aria-busy="true"]:empty::before,
+#selected-publications[aria-busy="true"]:empty::after {
+  content:""; grid-column:span 5; height:clamp(270px,25vw,345px);
+  background:
+    linear-gradient(90deg,transparent calc(100% - 14px),var(--bg) 0),
+    linear-gradient(to bottom,var(--edge) 0 38%,var(--panel) 38% 100%);
+  background-size:calc((100% + 14px) / 5) 100%;
+  border-radius:6px;
 }

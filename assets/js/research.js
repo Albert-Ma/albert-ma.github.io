@@ -92,6 +92,8 @@ async function loadPapers() {
 }
 // The archive supplies the card content; publication metadata controls the selection.
 async function showSelectedPapers(grid) {
+  grid.setAttribute("aria-busy", "true");
+  grid.replaceChildren();
   try {
     const [metadata] = await Promise.all([
       fetch("/assets/data/publications.json").then(response => {
@@ -154,6 +156,8 @@ async function showSelectedPapers(grid) {
     retry.textContent = "Retry loading selected papers";
     retry.addEventListener("click", () => showSelectedPapers(grid));
     grid.replaceChildren(retry);
+  } finally {
+    grid.setAttribute("aria-busy", "false");
   }
 }
 const selectedGrid = document.getElementById("selected-publications");
@@ -266,3 +270,18 @@ function openLinkedAwardYear() {
 }
 openLinkedAwardYear();
 window.addEventListener("hashchange", openLinkedAwardYear);
+
+
+// Frames already have their final dimensions in CSS. Only decorate pending images.
+for (const img of document.querySelectorAll(".highlight-photo img, .organization-mark img")) {
+  if (img.complete) continue;
+  const frame = img.parentElement;
+  frame.classList.add("media-pending");
+  const finish = () => {
+    frame.classList.remove("media-pending");
+    img.removeEventListener("load", finish);
+    img.removeEventListener("error", finish);
+  };
+  img.addEventListener("load", finish);
+  img.addEventListener("error", finish);
+}

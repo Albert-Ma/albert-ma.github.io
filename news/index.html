@@ -1,16 +1,17 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-theme="dark">
 <head>
   <meta charset="utf-8">
   <script defer src="/assets/js/link-targets.js"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#101211">
-  <script src="/assets/js/theme.js?v=ccfde0775a8c"></script>
+  <script>try { if (localStorage.getItem("xinyu-color-theme") === "light") document.documentElement.dataset.theme = "light"; } catch {}</script>
+  <script defer src="/assets/js/theme.js?v=ccfde0775a8c"></script>
   <title>News · Xinyu Ma</title>
   <meta name="description" content="News, talks and research highlights from Xinyu Ma.">
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20viewBox=%270%200%2016%2016%27%3E%3C/svg%3E">
-  <link rel="stylesheet" href="/assets/css/research.css?v=85b3213eb64f">
-  <script defer src="/assets/js/research.js?v=1b56bb4c4638"></script>
+  <link rel="stylesheet" href="/assets/css/research.css?v=436ec05f1244">
+  <script defer src="/assets/js/research.js?v=93e59150df9b"></script>
 </head>
 <body id="overview">
 <a class="skip" href="#main">Skip to content</a>
@@ -27,7 +28,7 @@
     <div class="section-head"><h1 id="highlight-title">News</h1></div>
     <div class="highlight-lead">
       <article class="highlight-story">
-        <a class="highlight-photo photo-ecir-2026" href="https://irlab.science.uva.nl/2026/03/31/best-paper-award-at-ecir-2026/" target="_blank" rel="noopener"><img src="/assets/highlight/ecir-2026.webp" alt="ECIR 2026 conference banner, Delft" width="1200" height="540" loading="lazy" decoding="async"></a>
+        <a class="highlight-photo photo-ecir-2026" href="https://irlab.science.uva.nl/2026/03/31/best-paper-award-at-ecir-2026/" target="_blank" rel="noopener"><img src="/assets/highlight/ecir-2026.webp" alt="ECIR 2026 conference banner, Delft" width="1200" height="540" fetchpriority="high" decoding="async"></a>
         <div class="highlight-copy"><div class="highlight-date"><span aria-hidden="true" class="highlight-icon icon prize-best"></span><time datetime="2026-03">MAR 2026</time></div><h3>ECIR 2026 Best Paper Award</h3><p>“LLM-Based Listwise Reranking Under the Effect of Positional Bias.”</p></div>
       </article>
       <div class="highlight-side">
@@ -47,7 +48,7 @@
         <div class="highlight-copy"><div class="highlight-date"><span aria-hidden="true" class="highlight-icon icon prize-outstanding"></span><time datetime="2023-12">DEC 2023</time></div><h3>EMNLP 2023 Outstanding Paper Award</h3><p>“Is ChatGPT Good at Search?”</p></div>
       </article>
       <article id="thesis-defense" class="highlight-story">
-        <span class="highlight-photo photo-ucas"><img src="/assets/organizations/ucas-seal.svg" width="300" height="300" alt="University of Chinese Academy of Sciences"></span>
+        <span class="highlight-photo photo-ucas"><img src="/assets/organizations/ucas-seal.svg" loading="lazy" decoding="async" width="300" height="300" alt="University of Chinese Academy of Sciences"></span>
         <div class="highlight-copy"><div class="highlight-date"><span aria-hidden="true" class="highlight-icon icon defense"></span><time datetime="2022-12">DEC 2022</time></div><h3>Ph.D. thesis defended</h3><p>“Pre-training and Fine-tuning Methods Tailored for Information Retrieval.” <a href="/files/PhD-thesis-slides.pdf">Slides in Chinese ↗</a></p></div>
       </article>
     </div>

@@ -50,13 +50,48 @@ function drawArt(canvas) {
   ctx.restore();
 }
 
-const paperArtObserver = new ResizeObserver(entries => {
-  for (const {target} of entries) drawArt(target);
-});
-document.querySelectorAll("canvas[data-art]").forEach(canvas => paperArtObserver.observe(canvas));
+// Draw nearby covers over successive frames, leaving time for input and scrolling.
+const pendingCovers = new Set();
+const paintedCovers = new WeakMap();
+let coverFrame = 0;
 
-document.addEventListener("themechange", () => {
-  document.querySelectorAll("canvas[data-art]").forEach(canvas => {
-    if (canvas.clientWidth) drawArt(canvas);
-  });
+function paintNextCover() {
+  coverFrame = 0;
+  for (const canvas of pendingCovers) {
+    pendingCovers.delete(canvas);
+    const size = canvas.getBoundingClientRect();
+    if (!size.width || !size.height) continue;
+    const signature = [size.width, size.height, devicePixelRatio, document.documentElement.dataset.theme].join("/");
+    if (paintedCovers.get(canvas) === signature) continue;
+    drawArt(canvas);
+    paintedCovers.set(canvas, signature);
+    break;
+  }
+  if (pendingCovers.size) coverFrame = requestAnimationFrame(paintNextCover);
+}
+
+function queueCover(canvas) {
+  pendingCovers.add(canvas);
+  if (!coverFrame) coverFrame = requestAnimationFrame(paintNextCover);
+}
+
+const nearbyCovers = new Set();
+const coverSizes = new ResizeObserver(entries => {
+  for (const {target} of entries) if (nearbyCovers.has(target)) queueCover(target);
 });
+const paperArtObserver = new IntersectionObserver(entries => {
+  for (const {target, isIntersecting} of entries) {
+    if (isIntersecting) {
+      nearbyCovers.add(target);
+      coverSizes.observe(target);
+      queueCover(target);
+    } else {
+      nearbyCovers.delete(target);
+      pendingCovers.delete(target);
+      coverSizes.unobserve(target);
+    }
+  }
+}, {rootMargin:"180px"});
+
+document.querySelectorAll("canvas[data-art]").forEach(canvas => paperArtObserver.observe(canvas));
+document.addEventListener("themechange", () => nearbyCovers.forEach(queueCover));

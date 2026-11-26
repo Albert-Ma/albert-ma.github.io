@@ -81,9 +81,14 @@ function landscape(canvas, peak, angle, yearButtons) {
     ctx.fillStyle = shade;
     ctx.fill();
     line(points, 'rgba('+mesh+',' + (.27+.52*depth) + ')', row%4===0 ? .95 : .6);
+    ctx.beginPath();
     for (let col=0; col<=columns; col+=2) {
-      line([back.points[col],points[col]], 'rgba('+crossMesh+',' + (.2+.5*depth) + ')', .58);
+      ctx.moveTo(...back.points[col]);
+      ctx.lineTo(...points[col]);
     }
+    ctx.strokeStyle = 'rgba('+crossMesh+',' + (.2+.5*depth) + ')';
+    ctx.lineWidth = .58;
+    ctx.stroke();
     back = front;
   }
 

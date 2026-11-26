@@ -26,8 +26,9 @@ def beijing_today():
 
 class VisitorHandler(SimpleHTTPRequestHandler):
     def end_headers(self):
-        self.send_header("Cache-Control", "no-store")
-        if urlsplit(self.path).path == "/api/visitors":
+        is_visits = urlsplit(self.path).path == "/api/visitors"
+        self.send_header("Cache-Control", "no-store" if is_visits else "no-cache")
+        if is_visits:
             self.send_header("Vary", "Origin")
             if self.headers.get("Origin") == "https://albert-ma.github.io":
                 self.send_header("Access-Control-Allow-Origin", "https://albert-ma.github.io")
