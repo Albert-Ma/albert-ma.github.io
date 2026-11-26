@@ -11,7 +11,7 @@ button,input{font:inherit}button{cursor:pointer;color:inherit}
 .wrap{width:min(1256px,89%);margin:auto}.skip{position:fixed;top:-100px;z-index:10;background:var(--lime);color:#111;padding:10px}.skip:focus{top:8px}
 .mast{border-bottom:1px solid var(--edge)}.nav,.nav nav,.brand,.find,.actions,.social,.identity,.section-head,.eyebrow,.field-foot,.text-link,.card small,.button{display:flex;align-items:center}
 .nav{height:76px;gap:38px}.brand{font-size:20px;font-weight:620;letter-spacing:-.8px;white-space:nowrap}
-.nav nav{gap:29px;margin-left:auto}.nav nav a{font-size:13px;color:var(--muted)}.nav nav a:hover,.nav nav a[aria-current]{color:var(--ink)}.nav nav a[aria-current]::before{content:"";display:inline-block;width:5px;height:5px;border-radius:50%;background:var(--lime);vertical-align:middle;margin-right:7px}
+.nav nav{gap:29px;margin-left:auto}.nav nav a{font-size:15px;white-space:nowrap;color:var(--muted)}.nav nav a:hover,.nav nav a[aria-current]{color:var(--ink)}.nav nav a[aria-current]::before{content:"";display:inline-block;width:5px;height:5px;border-radius:50%;background:var(--lime);vertical-align:middle;margin-right:7px}
 .find{gap:10px;background:#191c19;border:1px solid var(--edge);padding:7px 9px 7px 12px;border-radius:7px;color:#c8ccc5;font-size:12px}
 kbd{font:10px var(--mono);padding:3px 5px;border:1px solid #3e433c;border-radius:3px}
 .icon{font-family:icons;font-weight:normal}.brands{font-family:brands}
@@ -497,6 +497,8 @@ body[data-page="home"] > footer { margin-block:0; padding-block:clamp(10px,1.6sv
 .theme-toggle:hover { color:var(--lime); border-color:currentColor; }
 .theme-toggle .icon::before { content:"\f185"; }
 @media(max-width:740px) { .nav-tools { margin-left:auto; } }
+@media(max-width:400px) { .nav nav a { font-size:14px; } }
+@media(max-width:360px) { .nav nav { gap:2px; } }
 
 :root[data-theme="light"] {
   color-scheme:light;
