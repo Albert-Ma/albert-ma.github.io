@@ -1,11 +1,10 @@
 (() => {
   const key = "xinyu-color-theme";
-  const system = window.matchMedia("(prefers-color-scheme: dark)");
   let preference;
   try { preference = localStorage.getItem(key); } catch { /* Storage may be disabled. */ }
 
   function apply() {
-    const theme = ["light", "dark"].includes(preference) ? preference : system.matches ? "dark" : "light";
+    const theme = preference === "light" ? "light" : "dark";
     const changed = document.documentElement.dataset.theme !== theme;
     document.documentElement.dataset.theme = theme;
     document.querySelector('meta[name="theme-color"]').content = theme === "light" ? "#ffffff" : "#101211";
@@ -28,7 +27,6 @@
       apply();
     });
   });
-  system.addEventListener("change", apply);
   window.addEventListener("storage", event => {
     if (event.key === key || event.key === null) {
       preference = event.newValue;
