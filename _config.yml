@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xinyu Ma"
 title_separator          : "|"
 name                     : &name "Xinyu Ma"
-description              : &description "CS Ph.D. Student at Institute of Computing Technology, Chinese Academy of Science (ICT,CAS)"
+description              : &description "Xinyu Ma, Staff Engineer at Baidu, working on Agent RSI and Agent post-training for large language models."
 url                      : https://albert-ma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xinyu Ma (马新宇)"
   avatar           : "me.jpeg"
-  bio              : "PhD in Computer Science, working on IR and NLP"
+  bio              : "Staff Engineer at Baidu working on Agent RSI and Agent post-training"
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

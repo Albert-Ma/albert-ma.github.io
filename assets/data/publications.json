@@ -1,0 +1,144 @@
+{
+  "membubble": {
+    "starred": false
+  },
+  "content-and-behavior-in-web-ranking": {
+    "starred": false
+  },
+  "token-level-credit-for-retrieval": {
+    "starred": false
+  },
+  "retain-to-refine": {
+    "starred": false
+  },
+  "agentic-r": {
+    "starred": false,
+    "published": "2026-07"
+  },
+  "semantically-diverse-exploration": {
+    "starred": true,
+    "published": "2026-07",
+    "preprint": "2026-01-08"
+  },
+  "reasonrank": {
+    "starred": true,
+    "published": "2026-07",
+    "preprint": "2025-08-09"
+  },
+  "rosd": {
+    "starred": false,
+    "published": "2026-05"
+  },
+  "direct-retrieval-augmented-optimization": {
+    "starred": false
+  },
+  "zerogr": {
+    "starred": false
+  },
+  "probe-and-fetch": {
+    "starred": false
+  },
+  "editing-a-generative-index": {
+    "starred": false
+  },
+  "cold-start-generative-recommendation": {
+    "starred": false
+  },
+  "positional-bias-in-listwise-reranking": {
+    "starred": true,
+    "published": "2026-03"
+  },
+  "deepresearch-9k": {
+    "starred": false
+  },
+  "improving-retrieval-augmented-generation-through-multi-agent-reinforcement-learning": {
+    "starred": true,
+    "published": "2025-12"
+  },
+  "tp-rag": {
+    "starred": false
+  },
+  "grounding-long-context-reasoning": {
+    "starred": false
+  },
+  "fultr-a-large-scale-fusion-learning-to-rank-dataset-and-its-application-for-satisfaction-oriented-ra": {
+    "starred": false
+  },
+  "reproducibility-replicability-and-insights-into-visual-document-retrieval-with-late-interaction": {
+    "starred": false
+  },
+  "replication-and-exploration-of-generative-retrieval-over-dynamic-corpora": {
+    "starred": false
+  },
+  "the-mirage-of-model-editing-revisiting-evaluation-in-the-wild": {
+    "starred": false
+  },
+  "knowledge-graph-retrieval-augmented-generation-for-llm-based-recommendation": {
+    "starred": true,
+    "published": "2025-07"
+  },
+  "sliding-windows-are-not-the-end-exploring-full-ranking-with-long-context-large-language-models": {
+    "starred": false
+  },
+  "towards-ai-search-paradigm": {
+    "starred": true,
+    "published": "2025-06"
+  },
+  "m2oerank-multi-objective-mixture-of-experts-enhanced-ranking-for-satisfaction-oriented-web-search": {
+    "starred": false
+  },
+  "tourrank-utilizing-large-language-models-for-documents-ranking-with-a-tournament-inspired-strategy": {
+    "starred": false
+  },
+  "coranking": {
+    "starred": false
+  },
+  "mair-a-massive-benchmark-for-evaluating-instructed-retrieval": {
+    "starred": false
+  },
+  "jailjudge-a-comprehensive-jailbreak-judge-benchmark-with-multi-agent-enhanced-explanation-evaluation": {
+    "starred": false
+  },
+  "understanding-the-collapse-of-llms-in-model-editing": {
+    "starred": false
+  },
+  "the-butterfly-effect-of-model-editing-few-edits-can-trigger-large-language-models-collapse": {
+    "starred": false
+  },
+  "instruction-distillation-makes-large-language-models-efficient-zero-shot-rankers": {
+    "starred": false
+  },
+  "pre-training-with-aspect-content-text-mutual-prediction-for-multi-aspect-dense-retrieval": {
+    "starred": false
+  },
+  "is-chatgpt-good-at-search-investigating-large-language-models-as-re-ranking-agents": {
+    "starred": true,
+    "published": "2023-12"
+  },
+  "scattered-or-connected-an-optimized-parameter-efficient-tuning-approach-for-information-retrieval": {
+    "starred": false
+  },
+  "a-contrastive-pre-training-approach-to-discriminative-autoencoder-for-dense-retrieval": {
+    "starred": false
+  },
+  "pre-training-methods-in-information-retrieval": {
+    "starred": true,
+    "published": "2022-08"
+  },
+  "pre-train-a-discriminative-text-encoder-for-dense-retrieval-via-contrastive-span-prediction": {
+    "starred": false
+  },
+  "b-prop-bootstrapped-pre-training-with-representative-words-prediction-for-ad-hoc-retrieval": {
+    "starred": false
+  },
+  "a-linguistic-study-on-relevance-modeling-in-information-retrieval": {
+    "starred": false
+  },
+  "prop-pre-training-with-representative-words-prediction-for-ad-hoc-retrieval": {
+    "starred": true,
+    "published": "2021-03"
+  },
+  "an-empirical-investigation-of-generalization-and-transfer-in-short-text-matching": {
+    "starred": false
+  }
+}

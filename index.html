@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <script defer src="/assets/js/link-targets.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101211">
+  <script src="/assets/js/theme.js?v=c856301652c2"></script>
+  <title>Xinyu Ma · Research profile</title>
+  <meta name="description" content="Xinyu Ma, Staff Engineer at Baidu. Research on Agent RSI (recursive self-improvement) and Agent post-training for large language models.">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20viewBox=%270%200%2016%2016%27%3E%3C/svg%3E">
+  <link rel="stylesheet" href="/assets/css/research.css?v=85b3213eb64f">
+  <script defer src="/assets/js/research.js?v=1b56bb4c4638"></script>
+  <script defer src="/assets/js/paper-art.js?v=d8951c48faab"></script>
+  <script defer src="/assets/js/field.js?v=72c13ab17eb1"></script>
+</head>
+<body id="overview" data-page="home">
+<a class="skip" href="#main">Skip to content</a>
+<header class="mast"><div class="wrap nav">
+  <a class="brand" href="/" aria-label="Xinyu Ma homepage">Xinyu Ma</a>
+  <nav aria-label="Main navigation"><a href="/" aria-current="page">Overview</a><a href="/news/">News</a><a href="/research/">Research</a><a href="/experience/">Experience</a><a href="/awards/">Awards</a></nav>
+  <div class="nav-tools">
+    <button class="find" data-open-search aria-label="Search this site"><span class="icon">&#xf002;</span><span>Search</span><kbd>⌘ K</kbd></button>
+    <button type="button" class="theme-toggle" aria-label="Switch color theme" hidden><span class="icon" aria-hidden="true"></span></button>
+  </div>
+</div></header>
+<main id="main" class="wrap">
+  <section class="hero" aria-labelledby="name">
+    <div class="profile">
+      <p class="eyebrow"><span class="status"></span> Research profile</p>
+      <div class="profile-identity">
+        <img class="hero-photo" src="/images/xinyu-ma-portrait.jpg" width="1100" height="961" fetchpriority="high" alt="Xinyu Ma outdoors at sunset">
+        <div>
+          <h1 id="name">Xinyu Ma<span class="period">.</span></h1>
+          <div class="identity"><span lang="zh">马新宇</span><i></i><span>Staff Engineer at Baidu</span></div>
+        </div>
+      </div>
+      <p class="lede">I build agents powered by large language models, with a focus on <strong id="agent-rsi">Agent RSI</strong> (recursive self-improvement) and <strong id="agent-post-training">Agent post-training</strong>.</p>
+      <p class="previous-work">Previously, I worked on training ranking models (2023–2024) and AI Overview (2025–2026) for Baidu Search.</p>
+      <div class="actions"><a class="button primary" href="/research/">Explore research <span aria-hidden="true">→</span></a><a class="button" href="/files/XinyuMa_CV_en_2026-11-26.pdf"><span class="icon">&#xf15c;</span> View CV</a></div>
+      <div class="social"><a href="https://scholar.google.com/citations?user=DXYzAIkAAAAJ&amp;hl=en" target="_blank" rel="noopener"><span class="icon">&#xf19d;</span> Scholar</a><a href="https://github.com/Albert-Ma" target="_blank" rel="noopener"><span class="brands">&#xf09b;</span> GitHub</a><a href="mailto:xinyuma2016@gmail.com"><span class="icon">&#xf0e0;</span> Email</a></div>
+    </div>
+
+    <figure class="field" aria-labelledby="landscape-title">
+      <figcaption id="landscape-title"><span class="field-mark" aria-hidden="true">⌖</span> Research landscape</figcaption>
+      <div class="viewport">
+        <canvas id="landscape" role="img" aria-label="From Web Search at the far right, a trail leads left through RAG to the Agent peak just left of center in the foreground."></canvas>
+        <span class="trail-light" aria-hidden="true"></span>
+        <span class="orbit-help">Drag to rotate</span>
+        <div class="peaks" role="group" aria-label="Explore papers by research stage">
+          <button type="button" aria-controls="work-search" aria-pressed="false" data-affiliation="Baidu Search" aria-label="Web Search, Baidu Search">Web Search</button>
+          <button type="button" aria-controls="work-rag" aria-pressed="false" data-affiliation="Baidu Search" aria-label="RAG, Baidu Search">RAG</button>
+          <button type="button" aria-controls="work-agent" aria-pressed="true" data-affiliation="Baidu DuMate" aria-label="Agent, Baidu DuMate">Agent</button>
+        </div>
+        <div class="stage-timeline" role="group" aria-label="Research timeline at Baidu, most recent first">
+          <button type="button" aria-label="2026, Agent" aria-controls="work-agent" aria-pressed="true"><time datetime="2026">2026</time></button>
+          <button type="button" aria-label="2025, RAG" aria-controls="work-rag" aria-pressed="false"><time datetime="2025">2025</time></button>
+          <button type="button" aria-label="2024, Web Search" aria-controls="work-search" aria-pressed="false"><time datetime="2024">2024</time></button>
+          <button type="button" aria-label="2023, Web Search" aria-controls="work-search" aria-pressed="false"><time datetime="2023">2023</time></button>
+        </div>
+      </div>
+      <div class="stage-papers" aria-live="polite">
+        <div id="work-search" hidden><p>Web Search <span>/</span> Baidu Search</p><a href="/publications/#prop-pre-training-with-representative-words-prediction-for-ad-hoc-retrieval">PROP ↗</a><a href="/publications/#is-chatgpt-good-at-search-investigating-large-language-models-as-re-ranking-agents">RankGPT ↗</a><a href="/publications/#reasonrank">ReasonRank ↗</a></div>
+        <div id="work-rag" hidden><p>RAG <span>/</span> Baidu Search</p><a href="/publications/#improving-retrieval-augmented-generation-through-multi-agent-reinforcement-learning">Multi-agent RL for RAG ↗</a><a href="/publications/#knowledge-graph-retrieval-augmented-generation-for-llm-based-recommendation">Knowledge graph RAG ↗</a><a href="/publications/#towards-ai-search-paradigm">Towards AI Search Paradigm ↗</a></div>
+        <div id="work-agent"><p>Agent <span>/</span> Baidu DuMate</p><a href="https://aclanthology.org/2026.findings-acl.785/" target="_blank" rel="noopener">Agentic-R ↗</a><a href="/publications/#rosd">ROSD ↗</a></div>
+      </div>
+    </figure>
+  </section>
+  <aside class="intern-opening" id="research-internship" aria-labelledby="internship-title">
+    <header>
+      <p class="opening-status">1 open position</p>
+      <h2 id="internship-title">Research internship</h2>
+    </header>
+    <div class="opening-invitation">
+      <p>I’m looking for a self-motivated research intern with a solid research background.</p>
+      <p>If you’re interested, feel free to <a href="mailto:xinyuma2016@gmail.com">email me<span aria-hidden="true"> ↗</span></a>.</p>
+    </div>
+  </aside>
+  <section hidden id="visitors" class="section editorial-section" aria-labelledby="visitors-title" data-endpoint="/api/visitors">
+    <div class="section-head"><h2 id="visitors-title">Visitor map</h2><p class="map-totals" aria-live="polite">Loading visits…</p></div>
+    <div class="visitor-layout">
+      <div class="world"><img src="/images/visitor-world.png" alt="World map showing approximate visitor regions" width="1200" height="600" loading="lazy"><div class="map-pins"></div></div>
+      <div class="map-copy">
+        <h3>Visits by region</h3>
+        <ul class="region-list" aria-label="Visits by region"></ul>
+        <p id="map-unknown"></p>
+        <p class="map-note">Locations are estimated from browser time zones. Counts update every minute.</p>
+      </div>
+    </div>
+  </section>
+</main>
+<footer class="wrap"><span>Xinyu Ma <i>/</i> Beijing, China</span><span class="last-update">Last update: <time datetime="2026-11">November 2026</time></span></footer>
+</body></html>
