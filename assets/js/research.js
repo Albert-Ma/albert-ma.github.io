@@ -20,7 +20,7 @@ const sections = [
   {title:"News", type:"Section", url:"/news/", terms:"news updates highlights awards best paper ecir 2026 positional bias reasonrank bright 获奖 新闻 近况"},
   {title:"Experience & education", type:"Background", url:"/experience/", terms:"career experience education phd advisor jiafeng guo baidu agents shandong cas 工作 经历 教育 导师"},
   {title:"Honors and Awards", type:"Awards", url:"/awards/", terms:"honors awards graduate scholarship travel grant 荣誉 奖项"},
-  {title:"Curriculum vitae", type:"PDF", url:"/files/XinyuMa_CV_en_2026-11-27.pdf", terms:"cv resume 简历"},
+  {title:"Curriculum vitae", type:"PDF", url:"/files/XinyuMa_CV_en_2026-11-27-v2.pdf", terms:"cv resume 简历"},
   {title:"Email Xinyu", type:"Contact", url:"mailto:xinyuma2016@gmail.com", terms:"contact email 联系 邮箱"},
   {homeOnly:true, title:"Google Scholar", type:"Profile", url:"https://scholar.google.com/citations?user=DXYzAIkAAAAJ&hl=en", terms:"citations scholar 谷歌学术 引用"},
   {title:"OpenReview", type:"Profile", url:"https://openreview.net/profile?id=~Xinyu_Ma4", terms:"openreview profile 学术主页"}
