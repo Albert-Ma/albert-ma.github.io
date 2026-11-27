@@ -47,7 +47,7 @@ const profileAnswers = [
 ];
 const dialog = document.createElement("dialog");
 dialog.setAttribute("aria-label","Search this site");
-dialog.innerHTML = '<header><span class="icon" aria-hidden="true">&#xf002;</span><input type="search" aria-label="Search papers, people, or topics" placeholder="Search papers, people, or topics…" autocomplete="off"><button aria-label="Close search">Esc</button></header><div class="prompts" aria-label="Suggested questions"></div><div class="answer" hidden></div><div class="results"></div><span class="sr-only" role="status"></span>';
+dialog.innerHTML = '<header><span class="icon" aria-hidden="true">&#xf002;</span><input type="search" aria-label="Search papers, people, or topics" placeholder="Search papers, people, or topics…" autocomplete="off"><button aria-label="Close search">Close</button></header><div class="prompts" aria-label="Suggested questions"></div><div class="answer" hidden></div><div class="results"></div><span class="sr-only" role="status"></span>';
 document.body.append(dialog);
 const query = dialog.querySelector("input");
 const results = dialog.querySelector(".results");
@@ -118,8 +118,8 @@ async function showSelectedPapers(grid) {
       card.className = "card";
       // Fill each five-column spread in reading order before extending it to the right.
       const firstColumn = Math.floor(index / cardsPerPage) * columnsPerPage + 1;
-      card.style.gridColumn = firstColumn + index % columnsPerPage;
-      card.style.gridRow = Math.floor((index % cardsPerPage) / columnsPerPage) + 1;
+      card.style.setProperty("--paper-column", firstColumn + index % columnsPerPage);
+      card.style.setProperty("--paper-row", Math.floor((index % cardsPerPage) / columnsPerPage) + 1);
       card.href = entry.querySelector(".resources a").getAttribute("href");
       setExternalLinkTarget(card);
       const body = document.createElement("div");
@@ -128,7 +128,7 @@ async function showSelectedPapers(grid) {
         body.append(node.cloneNode(true));
       }
       const action = document.createElement("strong");
-      action.textContent = "Read paper ↗";
+      action.textContent = "Read paper ↗︎";
       body.append(action);
       let cover = entry.querySelector(".art").cloneNode(true);
       const award = body.querySelector(".paper-award");
@@ -200,7 +200,7 @@ function renderResults() {
     const link=document.createElement("a"), text=document.createElement("span"), type=document.createElement("small");
     link.href=item.url;
     setExternalLinkTarget(link);
-    text.textContent=item.title;type.textContent=item.type+" ↗";
+    text.textContent=item.title;type.textContent=item.type+" ↗︎";
     link.append(text,type);results.append(link);
   }
   if ((!found.length && !answer) || loadError) {

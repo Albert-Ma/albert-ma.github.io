@@ -187,7 +187,13 @@ if (terrain) {
   let summits = [];
   let drag = null;
   let frame = 0;
+  // On a narrow plot, a full turn brings the two distant peaks into the same column.
+  function clampAngle(value) {
+    const minAngle = Math.max(-.20, Math.min(.13, .10 - (terrain.clientWidth - 320) / 700));
+    return Math.max(minAngle, Math.min(.32, value));
+  }
   function draw() {
+    angle = clampAngle(angle);
     summits = landscape(terrain, peak, angle, timelineButtons);
   }
   function select(index, yearButton) {
@@ -236,7 +242,7 @@ if (terrain) {
     const dx = event.clientX - drag.x;
     drag.moved ||= Math.abs(dx) > 5;
     if (!drag.moved) return;
-    angle = Math.max(-.32, Math.min(.32, drag.angle + dx / terrain.clientWidth * 1.5));
+    angle = clampAngle(drag.angle + dx / terrain.clientWidth * 1.5);
     if (!frame) frame = requestAnimationFrame(() => { frame = 0; draw(); });
   });
   viewport.addEventListener("pointerup", event => {
