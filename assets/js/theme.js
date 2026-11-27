@@ -1,7 +1,6 @@
 (() => {
   const key = "xinyu-color-theme";
-  let preference;
-  try { preference = localStorage.getItem(key); } catch { /* Storage may be disabled. */ }
+  let preference = document.documentElement.dataset.theme;
 
   function apply() {
     const theme = preference === "light" ? "light" : "dark";
@@ -23,13 +22,13 @@
     button.hidden = false;
     button.addEventListener("click", () => {
       preference = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
-      try { localStorage.setItem(key, preference); } catch { /* Apply for this page. */ }
+      try { sessionStorage.setItem(key, preference); } catch { /* Apply for this page. */ }
       apply();
     });
   });
-  window.addEventListener("storage", event => {
-    if (event.key === key || event.key === null) {
-      preference = event.newValue;
+  window.addEventListener("pageshow", event => {
+    if (event.persisted) {
+      try { preference = sessionStorage.getItem(key); } catch { /* Keep this page’s theme. */ }
       apply();
     }
   });
